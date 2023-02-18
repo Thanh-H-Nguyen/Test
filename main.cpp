@@ -1,7 +1,7 @@
 #include <iostream>
 #include <list>
 using namespace std;
-// in part 5
+// commit merged part 5 + part 10
 // sum of a list
 int Sum(list<int> numbers){
     int sum = 0;
